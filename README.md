@@ -1,6 +1,6 @@
-# React_Movie_Public_API
+## React_Movie_Public_API
+- 달력 제공
+- 선택된 날짜 기준 주말 박스오피스 랭크 제공 (default 10개)
 
-### Version 1.0.0
+## 🔗 URL
 
-1. 달력 제공
-2. 날짜 선택시 해당 날짜기준 주말 박스오피스 랭크 제공 (default 10개)
